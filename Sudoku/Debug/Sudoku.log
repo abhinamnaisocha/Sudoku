@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\muhammad bilal\documents\visual studio 2015\projects\sudoku\sudoku\source.cpp(14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\muhammad bilal\documents\visual studio 2015\projects\sudoku\sudoku\source.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\muhammad bilal\documents\visual studio 2015\projects\sudoku\sudoku\source.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sudoku.vcxproj -> c:\users\muhammad bilal\documents\visual studio 2015\Projects\Sudoku\Debug\Sudoku.exe
